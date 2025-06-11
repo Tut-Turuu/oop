@@ -1,0 +1,3 @@
+Volume increased to 70%
+Volume decreased to 50%
+Media player launched

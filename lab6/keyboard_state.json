@@ -1,0 +1,52 @@
+{
+    "a": {
+        "params": {
+            "char": "a"
+        },
+        "type": "PrintChar"
+    },
+    "b": {
+        "params": {
+            "char": "b"
+        },
+        "type": "PrintChar"
+    },
+    "c": {
+        "params": {
+            "char": "c"
+        },
+        "type": "PrintChar"
+    },
+    "ctrl++": {
+        "params": {
+            "step": 20
+        },
+        "type": "VolumeUp"
+    },
+    "ctrl+-": {
+        "params": {
+            "step": 20
+        },
+        "type": "VolumeDown"
+    },
+    "ctrl+alt+p": {
+        "params": null,
+        "type": "MediaPlayer"
+    },
+    "ctrl+p": {
+        "params": null,
+        "type": "MediaPlayer"
+    },
+    "d": {
+        "params": {
+            "char": "d"
+        },
+        "type": "PrintChar"
+    },
+    "e": {
+        "params": {
+            "char": "e"
+        },
+        "type": "PrintChar"
+    }
+}
